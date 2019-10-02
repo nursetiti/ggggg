@@ -1,2 +1,1 @@
-Git and Githu
-   To learn about Git , Github and their Workflow
+ To learn about Git , Github and their Workflow
